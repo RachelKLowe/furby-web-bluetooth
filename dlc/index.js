@@ -14,6 +14,14 @@
             { "title": "Hacked 2", "action": [75,0,4,4] }
         ]
     },
+    { 
+        "file": "newdlc.dlc", 
+        "title": "BUTTON",
+        "buttons": [
+            { "title": "Hacked 1", "action": [75,0,3,4] },
+            { "title": "Hacked 2", "action": [75,0,4,4] }
+        ]
+    },
     {
         "file": "noimg2.dlc", 
         "title": "Audio only",
